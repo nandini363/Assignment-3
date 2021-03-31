@@ -4,7 +4,21 @@
     <meta charset="UTF-8">
     <title>Amazing app to help you find nearest MBTA station</title>
 </head>
-<body>
 
+<body>
+    <div class = "content">
+        <h1> MBTA Station Finder </h1>
+    
+        <form method = "POST" name = "" action = '{{ url_for('find') }}'>
+                Please enter your location:
+            </p>
+            <p> 
+                <input type = "text" size = "20" name = "location" />
+            </p>
+            <p>
+                <input type = "submit" value = "Submit" />
+            </p>
+        </form>
+    </div>
 </body>
 </html>
