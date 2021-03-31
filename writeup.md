@@ -1,6 +1,6 @@
 Nandini Bhandari, Gina Huang, and Jaila Taylor
 Professor Li
-MIS3640 01
+MIS3640-01
 30 March 2021
 
 Assignment #3
